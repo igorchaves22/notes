@@ -2,5 +2,5 @@
 
 <brief description of what was done and why>
 
-Changes:
+Summary:
 - Item 1 explaining the change.
