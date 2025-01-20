@@ -1,0 +1,6 @@
+<type>: <commit title>
+
+<brief description of what was done and why>
+
+Changes:
+- Item 1 explaining the change.
