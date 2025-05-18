@@ -1,0 +1,29 @@
+{
+  // General
+  "explorer.confirmDragAndDrop": false,
+
+  // Terminal
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // Formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.defaultFormatter": "biomejs.biome",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+    // "quickfix.biome": "explicit",
+    // "source.organizeImports.biome": "explicit"
+  }, 
+  
+
+  // Appearance
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Night Wolf (black)",
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 4,
+  "editor.fontSize": 14,
+  "editor.fontWeight": "400"
+}
