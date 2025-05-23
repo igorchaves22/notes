@@ -1,0 +1,19 @@
+[icon] [type]: [description]
+
+[optional body]
+
+---
+
+1. 🎉 init: Initializes a new project
+2. ✨ feat: Adds a new feature
+3. 🐛 fix: Fixes a bug
+4. 📝 docs: Updates documentation
+5. 💄 style: Changes that do not affect code meaning (formatting, spaces)
+6. 🔨 refactor: Code refactoring without changing functionality
+7. ⚡️ perf: Performance improvements
+8. ✅ test: Adds or fixes tests
+9. 🏗️ build: Changes that affect the build system or dependencies
+10. 🔧 chore: Miscellaneous tasks not modifying source or test files
+11. ⚙️ config: Changes to configuration files
+12. 📦 deps: Updates production dependencies
+13. 📄 license: Updates license files
