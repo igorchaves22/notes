@@ -1,19 +1,32 @@
-[icon] [type]: [description]
+[icon][type]: [description]
 
 [optional body]
 
 ---
 
 1. 🎉 init: Initializes a new project
+   Initial creation of the project or repository. Usually includes base files like README, gitignore, etc.
 2. ✨ feat: Adds a new feature
+   Adds a new functionality to the codebase, such as a new component, function, or endpoint.
 3. 🐛 fix: Fixes a bug
+   Fixes a bug or an error in the system, correcting unintended or broken behavior.
 4. 📝 docs: Updates documentation
+   Changes documentation files only, such as README, explanatory comments, or wikis.
 5. 💄 style: Changes that do not affect code meaning (formatting, spaces)
+   Code formatting improvements that don't change logic—like indentation, spacing, or semicolons.
 6. 🔨 refactor: Code refactoring without changing functionality
+   Refactors code to improve structure, readability, or maintainability without altering behavior.
 7. ⚡️ perf: Performance improvements
+   Optimizes code performance—like reducing loops, improving rendering, or using better algorithms.
 8. ✅ test: Adds or fixes tests
+   Adds new tests or updates/fixes existing tests, including unit, integration, or e2e tests.
 9. 🏗️ build: Changes that affect the build system or dependencies
+   Changes in build tools or scripts (e.g., Webpack, Vite) that affect how the app is built.
 10. 🔧 chore: Miscellaneous tasks not modifying source or test files
+    Routine tasks like updating .gitignore, helper scripts, or general maintenance not touching source/test code.
 11. ⚙️ config: Changes to configuration files
+    Changes to configuration files like ESLint, Prettier, Babel, TypeScript, etc.
 12. 📦 deps: Updates production dependencies
+Updates production-level dependencies (not dev dependencies) used by the application.
 13. 📄 license: Updates license files
+Adds or updates the project license file(s), such as LICENSE.md.
